@@ -5,8 +5,12 @@ Quantitative investment strategy framework built for the UK Investment Challenge
 ## Repository Structure
 ```
 .
-├── portfolio_scanner_final.py    # Technical scanner for S&P 500 constituents
-├── earnings_ranker.py            # Earnings momentum & sentiment scoring engine
+├── data/
+│   ├── earnings_ranked.csv       # Output from earnings scorer
+│   └── sp500_summary.csv         # Output from portfolio scanner
+├── src/
+│   ├── earnings_ranker.py        # Earnings momentum & sentiment scoring engine
+│   └── portfolio_scanner_final.py # Technical scanner for S&P 500 constituents
 └── README.md
 ```
 
