@@ -1,6 +1,6 @@
 # rym-investment-framework
 
-Quantitative investment strategy framework built for the UK Investment Challenge 2025. A dual-module Python system for systematic equity screening and earnings-driven momentum analysis, combining technical indicators, sentiment analysis, and post-earnings drift signals for competition-grade portfolio construction.
+Quantitative investment strategy framework built for the UK Investment Challenge 2025 securing 3rd place out of 28 QMUL teams. A dual-module Python system for systematic equity screening and earnings-driven momentum analysis, combining technical indicators, sentiment analysis, and post-earnings drift signals for competition-grade portfolio construction.
 
 ## Repository Structure
 ```
